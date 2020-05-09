@@ -1,7 +1,6 @@
-# Diseños
+# Ejemplo diseño aplicación Nike.
 
-Ejemplo diseño aplicación Nike.
-<img src='https://images.pexels.com/photos/814499/pexels-photo-814499.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500'>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
